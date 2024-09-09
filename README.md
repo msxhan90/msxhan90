@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @msxhan90
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Siddique 
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning python and rust
+- 💞️ I’m looking to collaborate on web project which matches the words similiriaty in various world languages.
+- 📫 You can reach on at msxhan@yahoo.com
 
 <!---
 msxhan90/msxhan90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
